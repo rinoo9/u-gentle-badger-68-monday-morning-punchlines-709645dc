@@ -6,7 +6,7 @@
 
 Entry for the make.fun "Monday Morning Punchlines" bounty: one original joke about Monday mornings.
 
-> "Monday morning is the only time I set five alarms — one to wake up, and four to negotiate with the snooze button." (113 characters)
+> "My to-do list for Monday has one item: survive Monday. It has been carried over since last Monday." (98 characters)
 
 ## Run
 

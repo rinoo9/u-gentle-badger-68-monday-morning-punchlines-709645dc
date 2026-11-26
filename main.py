@@ -2,11 +2,14 @@
 
 Writes one original one-line joke about Monday mornings to
 /output/entry.txt. Deterministic, no network, no randomness.
+
+Round 2 line: the Monday to-do list has a single item — survive Monday —
+carried over, unfinished, since last Monday.
 """
 
 import os
 
-ENTRY = "Monday morning is the only time I set five alarms — one to wake up, and four to negotiate with the snooze button."
+ENTRY = "My to-do list for Monday has one item: survive Monday. It has been carried over since last Monday."
 
 
 def main() -> None:
